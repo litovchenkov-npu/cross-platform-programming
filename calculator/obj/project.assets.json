@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\litov\\source\\repos\\cross-platform-programming\\lab3\\calculator\\calculator.csproj",
+      "projectUniqueName": "C:\\Users\\litov\\source\\repos\\cross-platform-programming\\calculator\\calculator.csproj",
       "projectName": "calculator",
-      "projectPath": "C:\\Users\\litov\\source\\repos\\cross-platform-programming\\lab3\\calculator\\calculator.csproj",
+      "projectPath": "C:\\Users\\litov\\source\\repos\\cross-platform-programming\\calculator\\calculator.csproj",
       "packagesPath": "C:\\Users\\litov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\litov\\source\\repos\\cross-platform-programming\\lab3\\calculator\\obj\\",
+      "outputPath": "C:\\Users\\litov\\source\\repos\\cross-platform-programming\\calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\litov\\AppData\\Roaming\\NuGet\\NuGet.Config",
